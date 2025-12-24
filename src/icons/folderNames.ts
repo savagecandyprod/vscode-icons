@@ -382,6 +382,7 @@ export default {
   mobiles: "_fd_folder_mobile",
   portable: "_fd_folder_mobile",
   portability: "_fd_folder_mobile",
+  native: "_fd_folder_mobile",
   mock: "_fd_folder_mock",
   mocks: "_fd_folder_mock",
   draft: "_fd_folder_mock",
